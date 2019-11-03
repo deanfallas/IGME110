@@ -1,0 +1,68 @@
+Body {
+    color: white;
+    background-color: #3AAFA9;
+    font-family: "Times New Roman", Times, serif;
+}
+
+#header{
+    font-size: 20px;
+    text-align: center;
+    width: 100%;
+    background: url("https://cdn.pixabay.com/photo/2017/06/21/07/33/background-2426328_960_720.jpg") repeat scroll 0 0;
+    position: absolute;
+    top: 0;
+    width: 100%
+}
+}
+
+.photos{
+    float:right;
+    margin: 0;
+    padding: 0;
+    display: block;
+}
+
+#maintext{
+    float:left;
+    padding-left: 150px;
+    padding-top: 300px;
+    height: 25px;
+
+    
+        
+}
+
+#photobox{
+  float:right;
+    padding-right: 200px;
+    padding-top: 145px
+    
+}
+
+
+ul{
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #17252A;
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+}
+
+li {
+  float: left;
+  width: 22.5em;
+}
+
+li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+li a:hover {
+  background-color: #66FCF1;
+}
