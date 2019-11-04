@@ -11,6 +11,7 @@ Body {
     background: url("https://cdn.pixabay.com/photo/2017/06/21/07/33/background-2426328_960_720.jpg") repeat scroll 0 0;
     position: absolute;
     top: 0;
+    left: 0px;
     width: 100%
 }
 
@@ -48,6 +49,7 @@ ul{
   background-color: #17252A;
   position: fixed;
   bottom: 0;
+  left: 0px;
   width: 100%;
 }
 
