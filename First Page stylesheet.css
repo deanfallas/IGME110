@@ -36,6 +36,7 @@ header {
         background: url("https://cdn.pixabay.com/photo/2017/06/21/07/33/background-2426328_960_720.jpg") repeat scroll 0 0;
     position: absolute;
     top: 0;
+    left: 0px;
     width: 100%
         
 }
@@ -45,30 +46,34 @@ img{
     margin-left: auto;
     margin-right: auto;
 }
-ul1{
+
+.sources{
   list-style-type: none;
   margin: 0;
   padding: 0;
   overflow: hidden;
   background-color: #17252A;
   position: fixed;
+  left: 0px;
   bottom: 0;
   width: 100%;
 }
 
-li1 {
+.sources1 {
   float: left;
   width: 22.5em;
 }
 
-li1 a {
+.sources1 a {
   display: block;
   color: white;
   text-align: center;
   padding: 14px 16px;
   text-decoration: none;
+    float: left;
+  width: 22.5em;
 }
-li1 a:hover {
+.sources1 a:hover {
   background-color: #66FCF1;
 }
 
