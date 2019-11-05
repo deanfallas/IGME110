@@ -61,7 +61,8 @@ img{
 
 .sources1 {
   float: left;
-  width: 25%;
+  list-style-position: inherit;
+  width: 22.5em;
 }
 
 .sources1 a {
